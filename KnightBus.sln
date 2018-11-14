@@ -27,9 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KnightBus.Azure.Storage", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KnightBus.Azure.Storage.Tests.Unit", "knightbus-azurestorage\tests\KnightBus.Azure.Storage.Tests.Unit\KnightBus.Azure.Storage.Tests.Unit.csproj", "{21E733BA-CB28-4337-939D-8C5E3A2EB200}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KnightBus.Examples.Azure.ServiceBus", "knightbus\examples\KnightBus.Examples.Azure.ServiceBus\KnightBus.Examples.Azure.ServiceBus.csproj", "{FC27C3D5-3EA2-4746-B00A-6D93E4F5ED77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KnightBus.Examples.Azure.ServiceBus", "examples\KnightBus.Examples.Azure.ServiceBus\KnightBus.Examples.Azure.ServiceBus.csproj", "{FC27C3D5-3EA2-4746-B00A-6D93E4F5ED77}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KnightBus.Examples.Azure.Storage", "knightbus\examples\KnightBus.Examples.Azure.Storage\KnightBus.Examples.Azure.Storage.csproj", "{8D857EE4-99A6-491B-AC65-16403C0088D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KnightBus.Examples.Azure.Storage", "examples\KnightBus.Examples.Azure.Storage\KnightBus.Examples.Azure.Storage.csproj", "{8D857EE4-99A6-491B-AC65-16403C0088D3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{1A7A20B2-65E7-4712-B93B-4AA3F73017A8}"
 EndProject
